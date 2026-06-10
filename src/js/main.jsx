@@ -13,9 +13,12 @@ import Home from './components/Home';
 import Cart from './components/Cart';
 import Form from './components/Form';
 import Series from './components/Series';
+import Tareas from './components/Tareas';
+import InputKey from './components/InputKey';
+import InputForm from './components/InputForm';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>    
-    <Series />
+    <InputKey />
   </React.StrictMode>,
 )

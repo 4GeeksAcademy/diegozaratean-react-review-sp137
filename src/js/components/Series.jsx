@@ -27,3 +27,15 @@ const Series = ()=>{
 }
 
 export default Series
+
+
+// PSEUDOCODIGO
+
+// estilos de la lista
+// DONE: mostrar una lista en react
+// DONE: mostrar el total de leementos de la lista
+// quitar un elemento de una lista
+// identificar cuando hago over sobre un elemnto y activar un boton
+// DONE: obtener el valor de un input
+// DONE: detectar cuando doy enter sobre un input
+// DONE: agregar elemento a una lista
